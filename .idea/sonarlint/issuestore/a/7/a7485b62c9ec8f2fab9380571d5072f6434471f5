@@ -1,0 +1,17 @@
+
+jsquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹ûøøÿÿÿÿ
+ssquid:S00116"VRename this field "result_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌôËÓüÿÿÿÿ
+tsquid:S00116+"WRename this field "out_trade_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á·îøÿÿÿÿ
+psquid:S00116'"SRename this field "cash_fee" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áš°Àùÿÿÿÿ
+msquid:S00116"URename this field "return_msg" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â€Ö†
+psquid:S00116-"SRename this field "time_end" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âœâàüÿÿÿÿ
+qsquid:S00116%"TRename this field "total_fee" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÃ¢¶şÿÿÿÿ
+msquid:S00116!"URename this field "trade_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ºÅÈ
+lsquid:S00116"TRename this field "nonce_str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ò õ
+qsquid:S00116"TRename this field "sign_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯şêÙÿÿÿÿÿ
+qsquid:S00116#"TRename this field "bank_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¯¨‘øÿÿÿÿ
+vsquid:S00116)"YRename this field "transaction_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÖÜ™øÿÿÿÿ
+nsquid:S00116"QRename this field "mch_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ù§ìûÿÿÿÿ
+psquid:S00116"SRename this field "err_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€»À„şÿÿÿÿ
+ssquid:S00116"VRename this field "return_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•´—äıÿÿÿÿ

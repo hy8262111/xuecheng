@@ -1,0 +1,36 @@
+
+osquid:S00117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‰â´şÿÿÿÿ
+ssquid:S00116"VRename this field "ffmpeg_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÁÊŒûÿÿÿÿ
+Qsquid:S1141["5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+asquid:S3027"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(ßõ½â
+T
+squid:S106d"9Replace this use of System.out or System.err by a logger.(–í˜úÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck€"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¸Ÿ€
+Xsquid:S1126!"AReplace this if-then-else statement by a single return statement.(ÃôÈ
+?squid:S1148q"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+^squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ŞÁÊŒûÿÿÿÿ
+esquid:S00100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ÷Š+
+:squid:S2129b"#Remove this "Character" constructor(¨³şÃ
+osquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¶Â
+Gsquid:S1481N"+Remove this unused "result" local variable.(—–İøÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÓÍüÿÿÿÿ
+:squid:S2129]"#Remove this "Character" constructor(¨³şÃ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›´ü½
+T
+squid:S106w"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+:squid:S1148E"#Use a logger to log this exception.(Ç’Çê
+vsquid:S1149P"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(©âá¼
+T
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ú´Êİøÿÿÿÿ
+hsquid:S00117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ÷Š+
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ŞÁÊŒûÿÿÿÿ
+Esquid:S1481O".Remove this unused "exitValue" local variable.(è½Òç
+T
+squid:S106_"9Replace this use of System.out or System.err by a logger.(–í˜úÿÿÿÿ
+P
+squid:S106„"9Replace this use of System.out or System.err by a logger.(İ´‚
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÀÊÑ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÁÊŒûÿÿÿÿ
+fsquid:S3027"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.( ÍÅŸıÿÿÿÿ
+Ksquid:S2209k"5Change this instance-reference to a static reference.(›ô¼A

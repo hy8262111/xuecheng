@@ -1,0 +1,4 @@
+
+[squid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(—ëË“
+9squid:S1214""Move constants to a class or enum.(Ÿ¡ââ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ô·£ˆ

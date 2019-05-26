@@ -1,0 +1,25 @@
+
+Xjavascript:S1854¯0"6Remove this useless assignment to local variable "col"(êˆ³Ûùÿÿÿÿ
+>javascript:S878Ÿ""Remove use of this comma operator.(ÿ®Ì¤
+Yjavascript:S1854‚5"<Remove this useless assignment to local variable "tmpCanvas"(‡«îœ
+Yjavascript:S1854–+"<Remove this useless assignment to local variable "dirOffset"(¹Ÿÿ
+Sjavascript:S1854ı="6Remove this useless assignment to local variable "xhr"(Â¢·×
+Qjavascript:S1854®0"4Remove this useless assignment to local variable "p"(ßÕ
+>javascript:S1116˜1"Remove this empty statement.(ôŸìúÿÿÿÿ
+Kjavascript:EmptyBlockİ/")Either remove or fill this block of code.(ìèİ”
+]javascript:UnusedVariableâ+"7Remove the declaration of the unused 'fround' variable.(«ğúİ
+`javascript:UnusedVariableá+"5Remove the declaration of the unused 'self' variable.(‚Ì¡‘üÿÿÿÿ
+Vjavascript:S1854„&"9Remove this useless assignment to local variable "accept"(şãŞ™
+Vjavascript:S1854‚5"9Remove this useless assignment to local variable "tmpCtx"(‡«îœ
+Sjavascript:S1854î5"6Remove this useless assignment to local variable "xhr"(Â¢·×
+Xjavascript:S1854°0"6Remove this useless assignment to local variable "row"(î§‡şÿÿÿÿ
+^javascript:UnusedVariableŸ"3Remove the declaration of the unused 'me' variable.(¹ÿŒØúÿÿÿÿ
+Kjavascript:EmptyBlockç/")Either remove or fill this block of code.(Úõòé
+gjavascript:UnusedVariable¥0"<Remove the declaration of the unused 'tripleWidth' variable.(ÚƒØÿÿÿÿÿ
+Wjavascript:S1854Ÿ"5Remove this useless assignment to local variable "me"(¹ÿŒØúÿÿÿÿ
+Vjavascript:S1854Á0"4Remove this useless assignment to local variable "p"(Ş›‘‘øÿÿÿÿ
+qjavascript:S3523°>"OReview this "Function" call and make sure its arguments are properly validated.(´—“˜ÿÿÿÿÿ
+Yjavascript:S1854á+"7Remove this useless assignment to local variable "self"(‚Ì¡‘üÿÿÿÿ
+9javascript:S1116İ/"Remove this empty statement.(ìèİ”
+`javascript:S1854¥0">Remove this useless assignment to local variable "tripleWidth"(ÚƒØÿÿÿÿÿ
+Vjavascript:S1854â+"9Remove this useless assignment to local variable "fround"(«ğúİ

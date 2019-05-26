@@ -1,0 +1,33 @@
+
+ssquid:S00116"VRename this field "ffmpeg_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÁÊŒûÿÿÿÿ
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(Ôµ±Ó
+Psquid:S2387"4"ffmpeg_path" is the name of a field in "VideoUtil".(ÞÁÊŒûÿÿÿÿ
+nsquid:S00117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÁÊŒûÿÿÿÿ
+_squid:S4042"IUse "java.nio.Files#delete" here for better messages on error conditions.(Ì¦™j
+gsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(”ÓÙàýÿÿÿÿ
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÞÁÊŒûÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽšãŠüÿÿÿÿ
+nsquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€á¡¨ùÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheckS"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+gsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(–Ä©äÿÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽšãŠüÿÿÿÿ
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(óãçì
+]squid:S1075U"ARefactor your code to get this URI from a customizable parameter.(€á¡¨ùÿÿÿÿ
+P
+squid:S899";Do something with the "boolean" value returned by "delete".(Ì¦™j
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ä©„ÿÿÿÿÿ
+osquid:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¶Â
+ksquid:S00116"SRename this field "mp4_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–”²µ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ä©„ÿÿÿÿÿ
+nsquid:S00117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŠþ…úÿÿÿÿ
+:squid:S1148H"#Use a logger to log this exception.(Ç’Çê
+qsquid:S00116"YRename this field "mp4folder_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôµ±Ó
+T
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽšãŠüÿÿÿÿ
+msquid:S00116"URename this field "video_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óãçì
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽšãŠüÿÿÿÿ
+isquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ¶›Â
+nsquid:S00117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ±é×üÿÿÿÿ
+]squid:S1075T"ARefactor your code to get this URI from a customizable parameter.(ÞÁÊŒûÿÿÿÿ
+]squid:S1075W"ARefactor your code to get this URI from a customizable parameter.(ÜŠþ…úÿÿÿÿ

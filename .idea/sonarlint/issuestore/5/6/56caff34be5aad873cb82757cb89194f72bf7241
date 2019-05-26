@@ -1,0 +1,17 @@
+
+Ksquid:S2864]"4Iterate over the "entrySet" instead of the "keySet".(÷¤Äò
+^squid:S2259˜"FA "NullPointerException" could be thrown; "response" is nullable here.(Âì“¡
+@squid:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+À%squid:RedundantThrowsDeclarationCheckM"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(¬¼ú„úÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheck¥"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(½Ã–Ô
+Ksquid:S2864p"4Iterate over the "entrySet" instead of the "keySet".(â÷Û
+psquid:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖëÒ×
+^squid:HiddenFieldCheck["7Rename "url" which hides the field declared at line 35.( ±Ï›ıÿÿÿÿ
+fsquid:CallToDeprecatedMethod~"9Remove this use of "SSLContextBuilder"; it is deprecated.(Ô´×ùÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck¥"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(½Ã–Ô
+psquid:S2293o"YReplace the type specification in this constructor call with the diamond operator ("<>").(êø²
+º%squid:RedundantThrowsDeclarationCheckY"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(ä†ÇH
+_squid:S2583^"CChange this condition so that it does not always evaluate to "true"(óñóşıÿÿÿÿ
+`squid:S2259"HA "NullPointerException" could be thrown; "httpClient" is nullable here.(—¢¯µ
+»%squid:RedundantThrowsDeclarationCheckS"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(ñğË™
+»%squid:RedundantThrowsDeclarationChecky"‰Remove the declaration of thrown exception 'org.apache.http.client.ClientProtocolException' which is a subclass of 'java.io.IOException'.(˜¦äÏ

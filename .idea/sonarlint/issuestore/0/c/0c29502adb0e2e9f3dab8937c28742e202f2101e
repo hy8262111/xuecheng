@@ -1,0 +1,10 @@
+
+?squid:S1148`"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Bsquid:S1172h"&Remove these unused method parameters.(ýô¼éùÿÿÿÿ
+=squid:S1172""&Remove these unused method parameters.(…ê„¦
+Fsquid:S2093["*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+^squid:HiddenFieldCheck%"<Rename "filePath" which hides the field declared at line 30.(¾’¿–
+asquid:CallToDeprecatedMethodc"4Remove this use of "closeQuietly"; it is deprecated.(¢³ªùÿÿÿÿ
+bsquid:UselessImportCheck"9Remove this unused import 'org.hibernate.result.Outputs'.(ö Åøÿÿÿÿ
+\squid:CallToDeprecatedMethodb"4Remove this use of "closeQuietly"; it is deprecated.(©‰âº
+Gsquid:S1172I"0Remove this unused method parameter "chunkSize".(ÛäÉí

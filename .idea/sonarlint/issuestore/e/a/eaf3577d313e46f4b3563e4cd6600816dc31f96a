@@ -1,0 +1,4 @@
+
+Dsquid:S1068".Remove this unused "EXCEPTIONS" private field.(ø‡¾k
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„úÍš
+lsquid:S00116"URename this field "EXCEPTIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø‡¾k

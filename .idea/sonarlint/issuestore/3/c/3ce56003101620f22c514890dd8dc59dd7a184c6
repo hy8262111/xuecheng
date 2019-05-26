@@ -1,0 +1,5 @@
+
+bsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(°¦šÃ
+>squid:S1481:"'Remove this unused "cm" local variable.(Ç×Ğ·
+Nsquid:S1172"7Remove this unused method parameter "queryPageRequest".(ÜßÓ
+Msquid:S1854:"6Remove this useless assignment to local variable "cm".(Ç×Ğ·

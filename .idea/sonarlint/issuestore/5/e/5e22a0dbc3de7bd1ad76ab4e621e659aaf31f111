@@ -1,0 +1,23 @@
+
+¢%squid:RedundantThrowsDeclarationCheckI"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ž¬îÄýÿÿÿÿ
+Tsquid:S1197"8Move the array designator from the variable to the type.(ý«Ì€úÿÿÿÿ
+<squid:S21293" Remove this "String" constructor(Ãîýµþÿÿÿÿ
+Tsquid:S1163="=Refactor this code to not throw exceptions in finally blocks.(ö™û
+P
+squid:S106œ"9Replace this use of System.out or System.err by a logger.(ÂÀãÀ
+Ksquid:UselessParenthesesCheckœ"!Remove these useless parentheses.(ÂÀãÀ
+esquid:S3008"NRename this field "MD5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£äÄ»
+Fsquid:S2093+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+U
+squid:S106ž"9Replace this use of System.out or System.err by a logger.(ŠÚç¯þÿÿÿÿ
+[squid:S21476"DCombine this catch with the one at line 52, which has the same body.(ï­£Ä
+Osquid:S1197a"8Move the array designator from the variable to the type.(¾Ñ­¨
+jsquid:S00117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†÷èã
+<squid:S2129K" Remove this "String" constructor(Ãîýµþÿÿÿÿ
+Ksquid:S1143="4Remove this throw statement from this finally block.(ö™û
+^squid:S1075“"ARefactor your code to get this URI from a customizable parameter.(¹Å»€ùÿÿÿÿ
+@squid:S1148™"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+nsquid:S2737="WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+Tsquid:S1197T"8Move the array designator from the variable to the type.(á¸º²øÿÿÿÿ
+Bsquid:S00108†")Either remove or fill this block of code.(”ý¾
+?squid:S1148"#Use a logger to log this exception.(¿µ¿›üÿÿÿÿ

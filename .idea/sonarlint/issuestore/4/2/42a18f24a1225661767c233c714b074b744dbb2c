@@ -1,0 +1,5 @@
+
+9squid:S1214""Move constants to a class or enum.(˜©¹
+`squid:CallToDeprecatedMethod"3Remove this use of "description"; it is deprecated.(ÖÊŒÊüÿÿÿÿ
+\squid:S4684""@Replace this persistent entity with a simple POJO or DTO object.(Ü™£‘ûÿÿÿÿ
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”üïéøÿÿÿÿ

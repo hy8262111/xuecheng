@@ -1,0 +1,46 @@
+
+bsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(Ïğ«§
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†—±­
+Psquid:S2387"4"ffmpeg_path" is the name of a field in "VideoUtil".(ŞÁÊŒûÿÿÿÿ
+wsquid:S00116"ZRename this field "m3u8folder_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôñµ­ÿÿÿÿÿ
+hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‚o
+hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‚o
+gsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(¡µ¢üÿÿÿÿ
+gsquid:CommentedOutCodeLines"<This block of commented-out lines of code should be removed.(†’†³ıÿÿÿÿ
+nsquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à‹Û¬ûÿÿÿÿ
+ksquid:S00116"TRename this field "m3u8_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿœ—Z
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‘„ø
+usquid:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(üı–´ûÿÿÿÿ
+bsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(Ïğ«§
+ssquid:S00116"VRename this field "ffmpeg_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÁÊŒûÿÿÿÿ
+msquid:S00116"URename this field "video_path" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óãçì
+csquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£µ»·
+:squid:S1148P"#Use a logger to log this exception.(Ç’Çê
+?squid:S1148|"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†—±­
+U
+squid:S106“"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+isquid:S00117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆƒ«¹
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(Ôñµ­ÿÿÿÿÿ
+Fsquid:S2093l"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+^squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ŞÁÊŒûÿÿÿÿ
+ksquid:S00100d"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıêş”ûÿÿÿÿ
+?squid:S1148v"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(óãçì
+asquid:S3027B"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(¤¾˜‹
+%squid:RedundantThrowsDeclarationCheckŒ"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÁÊŒûÿÿÿÿ
+osquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÎ³­ÿÿÿÿÿ
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÁû
+gsquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(ö„­¾ÿÿÿÿÿ
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ŞÁÊŒûÿÿÿÿ
+hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‚o
+Ysquid:S1075"ARefactor your code to get this URI from a customizable parameter.(ÑÁû
+^squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ìÎ³­ÿÿÿÿÿ
+usquid:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(œƒ±êøÿÿÿÿ
+U
+squid:S106”"9Replace this use of System.out or System.err by a logger.(ŒëÙÏıÿÿÿÿ
+osquid:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¶Â
+hsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á‚o
+Csquid:S1168…"+Return an empty collection instead of null.(¥¹ï
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ƒÆ¾¦ûÿÿÿÿ
